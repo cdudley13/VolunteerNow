@@ -49,6 +49,13 @@ button:hover {
   width: 50%;
 }
 
+/* style for sign in button */
+.signinbtn {
+    padding: 14px 20px;
+    background-color: blue;
+    width: 50%;
+}    
+
 /* Add padding to container elements */
 .container {
     padding: 16px;
